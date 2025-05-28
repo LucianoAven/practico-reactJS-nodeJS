@@ -14,7 +14,7 @@ Aplicación full-stack para gestión de usuarios y productos con backend en Node
 ```bash
 # Clonar repositorio (opcional)
 git clone git@github.com:LucianoAven/practico-reactJS-nodeJS.git
-cd proyecto/backend
+cd integrador_react-node
 
 # Instalar dependencias
 npm install express cors
@@ -24,7 +24,7 @@ node index.js
 
 ## Configuracion del Frontend
 
-cd ../frontend
+cd ../react-integrador
 
 # Instalar dependencias
 npm install
