@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "nombre": "Mateos",
+    "email": "mateo@gmail.com.ar",
+    "edad": "200"
+  },
+  {
+    "nombre": "Pedros2710",
+    "edad": "2130",
+    "email": "peedros@gmailc.om",
+    "id": 2
+  },
+  {
+    "nombre": "LuisMTPLus",
+    "edad": "43",
+    "email": "luis2617@gmail.com",
+    "id": 4
+  },
+  {
+    "nombre": "MarceloMit",
+    "edad": "21",
+    "email": "loreG@gmail.com",
+    "id": 5
+  },
+  {
+    "nombre": "Jeremias",
+    "edad": "23",
+    "email": "jeremias@gmail.com",
+    "id": 8
+  },
+  {
+    "nombre": "LauraP",
+    "edad": "32",
+    "email": "lava@gmail.com",
+    "id": 9
+  },
+  {
+    "nombre": "Abigail",
+    "edad": "31",
+    "email": "Abigail@gmail.com",
+    "id": 7
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "nombre": "Secador",
+    "precio": "7000",
+    "cantidad": "70"
+  },
+  {
+    "nombre": "Radios 300",
+    "precio": "235000",
+    "cantidad": "700",
+    "id": 2
+  }
+]
