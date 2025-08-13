@@ -30,4 +30,4 @@ cd ../react-integrador
 npm install
 
 # Iniciar aplicación
-npm start
+npm run dev
